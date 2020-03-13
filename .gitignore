@@ -206,3 +206,9 @@ fabric.properties
 # 2020-03-08 added
 .idea/*
 a_resources/*
+
+# 2020-03-13 added
+*.pyc
+/media
+/static
+
